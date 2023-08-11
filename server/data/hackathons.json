@@ -1,0 +1,85 @@
+{
+    "hackathons": [
+      {
+        "id": "1",
+        "name": "TechFusion",
+        "url": "https://techfusion.com",
+        "startDate": "2023-01-06 12:00 AM IST",
+        "endDate": "2023-01-10 12:05 PM IST",
+        "participants": "200+"
+      },
+      {
+        "id": "2",
+        "name": "InnoHacks",
+        "url": "https://innohacks.com",
+        "startDate": "2023-03-15 12:00 AM IST",
+        "endDate": "2023-03-20 12:05 PM IST",
+        "participants": "500+"
+      },
+      {
+        "id": "3",
+        "name": "CodeStorm",
+        "url": "https://codestorm.com",
+        "startDate": "2023-05-01 12:00 AM IST",
+        "endDate": "2023-05-05 12:05 PM IST",
+        "participants": "300+"
+      },
+      {
+        "id": "4",
+        "name": "TechHunt",
+        "url": "https://techhunt.com",
+        "startDate": "2023-07-10 12:00 AM IST",
+        "endDate": "2023-07-15 12:05 PM IST",
+        "participants": "400+"
+      },
+      {
+        "id": "5",
+        "name": "InnoCode",
+        "url": "https://innocode.com",
+        "startDate": "2023-09-01 12:00 AM IST",
+        "endDate": "2023-09-05 12:05 PM IST",
+        "participants": "250+"
+      },
+      {
+        "id": "6",
+        "name": "TechFest",
+        "url": "https://techfest.com",
+        "startDate": "2023-11-01 12:00 AM IST",
+        "endDate": "2023-11-05 12:05 PM IST",
+        "participants": "350+"
+      },
+      {
+        "id": "7",
+        "name": "CodeArena",
+        "url": "https://codearena.com",
+        "startDate": "2023-01-20 12:00 AM IST",
+        "endDate": "2023-01-25 12:05 PM IST",
+        "participants": "450+"
+      },
+      {
+        "id": "8",
+        "name": "InnoHacks 2.0",
+        "url": "https://innohacks2.com",
+        "startDate": "2023-03-25 12:00 AM IST",
+        "endDate": "2023-03-30 12:05 PM IST",
+        "participants": "550+"
+      },
+      {
+        "id": "9",
+        "name": "CodeStorm 2.0",
+        "url": "https://codestorm2.com",
+        "startDate": "2023-05-11 12:00 AM IST",
+        "endDate": "2023-05-15 12:05 PM IST",
+        "participants": "350+"
+      },
+      {
+        "id": "10",
+        "name": "TechHunt 2.0",
+        "url": "https://techhunt2.com",
+        "startDate": "2023-07-20 12:00 AM IST",
+        "endDate": "2023-07-25 12:05 PM IST",
+        "participants": "450+"
+      }
+    ]
+  }
+  

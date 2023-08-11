@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+}
+
+:root {
+    --main-light-color: #FF81AE;
+    --main-dark-color: #ff2e77;
+    /* --main-light-color: #00A86B; */
+    /* --main-dark-color: #00684a; */
+    
+    --main-opacity-color: #ff81ad2d;
+    --main-font-size: 0.9rem;
+}
+body {
+    scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif;
+}
+::selection {
+    background: #ffdfea;
+}
